@@ -1,24 +1,17 @@
-# README
+# Ruby on Rails
+Hi! This is nothing more than my first try with this amazing technology. Enjoy my first steps! <3
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# IDE
+Virtual Machine - AWS c9
 
-Things you may want to cover:
+# First Step
+Create a machine with blank, then:
 
-* Ruby version
+```
+install ruby
+```
+After, you have to install the framework:
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+```
+gem install rails
+```
